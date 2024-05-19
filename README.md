@@ -80,7 +80,7 @@ An example of the generated JSON file:
       "balance": "RouletteBase"
     },
     {
-      "start_date": "5/2/2024",
+      "start_date": "5/1/2024",
       "end_date": "5/5/2024",
       "balance": "Gacha_Base"
     },
@@ -98,7 +98,7 @@ An example of the generated JSON file:
     },
     {
       "start_date": "5/9/2024",
-      "end_date": "5/10/2024",
+      "end_date": "5/11/2024",
       "balance": "Gacha_Rare"
     },
     {
